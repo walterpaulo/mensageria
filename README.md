@@ -1,5 +1,10 @@
 # Mensageria
 
+Produce -> Manda mensagens, api ...
+
+<p>
+Consumer -> recebe mensagens, serviço de email ...
+
 
 ## RabbitMQ
 
